@@ -4,3 +4,4 @@ assignment2:control flow
 list_assignments
 set_assignment
 tuple_assignments
+functions practice on udemy 
